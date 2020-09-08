@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="windows-31j" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-08-25T02:09:13.605313900Z</date>
+  <millis>1598321353605</millis>
+  <nanos>313900</nanos>
+  <sequence>1</sequence>
+  <logger>Controller.MainController</logger>
+  <level>CONFIG</level>
+  <class>Controller.MainController</class>
+  <method>logInitialize</method>
+  <thread>19</thread>
+  <message>Software's running</message>
+</record>
+<record>
+  <date>2020-08-25T02:09:17.013755500Z</date>
+  <millis>1598321357013</millis>
+  <nanos>755500</nanos>
+  <sequence>2</sequence>
+  <logger>Controller.MainController</logger>
+  <level>INFO</level>
+  <class>Controller.MainController</class>
+  <method>handleOnKeyReleased</method>
+  <thread>19</thread>
+  <message>Input:F5--- Message:java.lang.Exception</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-31j" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-08-25T02:09:38.502319200Z</date>
+  <millis>1598321378502</millis>
+  <nanos>319200</nanos>
+  <sequence>1</sequence>
+  <logger>Controller.MainController</logger>
+  <level>CONFIG</level>
+  <class>Controller.MainController</class>
+  <method>logInitialize</method>
+  <thread>16</thread>
+  <message>Software's running</message>
+</record>
+<record>
+  <date>2020-08-25T02:09:42.896003900Z</date>
+  <millis>1598321382896</millis>
+  <nanos>3900</nanos>
+  <sequence>2</sequence>
+  <logger>Controller.MainController</logger>
+  <level>INFO</level>
+  <class>Controller.MainController</class>
+  <method>handleOnKeyReleased</method>
+  <thread>16</thread>
+  <message>Input:F5--- Message:java.lang.Exception</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-31j" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-08-25T02:31:53.626411300Z</date>
+  <millis>1598322713626</millis>
+  <nanos>411300</nanos>
+  <sequence>1</sequence>
+  <logger>Controller.MainController</logger>
+  <level>CONFIG</level>
+  <class>Controller.MainController</class>
+  <method>logInitialize</method>
+  <thread>16</thread>
+  <message>Software's running</message>
+</record>
+<record>
+  <date>2020-08-25T02:31:55.634614400Z</date>
+  <millis>1598322715634</millis>
+  <nanos>614400</nanos>
+  <sequence>2</sequence>
+  <logger>Controller.MainController</logger>
+  <level>INFO</level>
+  <class>Controller.MainController</class>
+  <method>handleOnKeyReleased</method>
+  <thread>16</thread>
+  <message>Input:F5--- Message:java.lang.Exception</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-31j" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-08-25T02:33:15.782808500Z</date>
+  <millis>1598322795782</millis>
+  <nanos>808500</nanos>
+  <sequence>1</sequence>
+  <logger>Controller.MainController</logger>
+  <level>CONFIG</level>
+  <class>Controller.MainController</class>
+  <method>logInitialize</method>
+  <thread>16</thread>
+  <message>Software's running</message>
+</record>
+<record>
+  <date>2020-08-25T02:33:17.210542100Z</date>
+  <millis>1598322797210</millis>
+  <nanos>542100</nanos>
+  <sequence>2</sequence>
+  <logger>Controller.MainController</logger>
+  <level>INFO</level>
+  <class>Controller.MainController</class>
+  <method>handleOnKeyReleased</method>
+  <thread>16</thread>
+  <message>Input:F5--- Message:java.lang.Exception</message>
+</record>
+<record>
+  <date>2020-08-25T02:33:21.089022100Z</date>
+  <millis>1598322801089</millis>
+  <nanos>22100</nanos>
+  <sequence>3</sequence>
+  <logger>Controller.MainController</logger>
+  <level>INFO</level>
+  <class>Controller.MainController</class>
+  <method>handleOnKeyReleased</method>
+  <thread>16</thread>
+  <message>Input:F5--- Message:java.lang.Exception</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-31j" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-08-25T02:55:57.986673Z</date>
+  <millis>1598324157986</millis>
+  <nanos>673000</nanos>
+  <sequence>1</sequence>
+  <logger>Controller.MainController</logger>
+  <level>CONFIG</level>
+  <class>Controller.MainController</class>
+  <method>logInitialize</method>
+  <thread>16</thread>
+  <message>Software's running</message>
+</record>
+<record>
+  <date>2020-08-25T03:08:10.420443300Z</date>
+  <millis>1598324890420</millis>
+  <nanos>443300</nanos>
+  <sequence>2</sequence>
+  <logger>Controller.MainController</logger>
+  <level>INFO</level>
+  <class>Controller.MainController</class>
+  <method>handleOnKeyReleased</method>
+  <thread>16</thread>
+  <message>Input:F5--- Message:java.lang.Exception</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-31j" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-08-25T03:12:49.674777Z</date>
+  <millis>1598325169674</millis>
+  <nanos>777000</nanos>
+  <sequence>1</sequence>
+  <logger>Controller.MainController</logger>
+  <level>CONFIG</level>
+  <class>Controller.MainController</class>
+  <method>logInitialize</method>
+  <thread>16</thread>
+  <message>Software's running</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-31j" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-08-25T03:13:25.816538400Z</date>
+  <millis>1598325205816</millis>
+  <nanos>538400</nanos>
+  <sequence>1</sequence>
+  <logger>Controller.MainController</logger>
+  <level>CONFIG</level>
+  <class>Controller.MainController</class>
+  <method>logInitialize</method>
+  <thread>16</thread>
+  <message>Software's running</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-31j" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-08-25T03:15:13.762389900Z</date>
+  <millis>1598325313762</millis>
+  <nanos>389900</nanos>
+  <sequence>1</sequence>
+  <logger>Controller.MainController</logger>
+  <level>CONFIG</level>
+  <class>Controller.MainController</class>
+  <method>logInitialize</method>
+  <thread>16</thread>
+  <message>Software's running</message>
+</record>
+<?xml version="1.0" encoding="windows-31j" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-08-25T03:17:34.940580800Z</date>
+  <millis>1598325454940</millis>
+  <nanos>580800</nanos>
+  <sequence>1</sequence>
+  <logger>Controller.MainController</logger>
+  <level>CONFIG</level>
+  <class>Controller.MainController</class>
+  <method>logInitialize</method>
+  <thread>16</thread>
+  <message>Software's running</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-31j" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-08-25T03:19:34.332866200Z</date>
+  <millis>1598325574332</millis>
+  <nanos>866200</nanos>
+  <sequence>1</sequence>
+  <logger>Controller.MainController</logger>
+  <level>CONFIG</level>
+  <class>Controller.MainController</class>
+  <method>logInitialize</method>
+  <thread>16</thread>
+  <message>Software's running</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-31j" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-08-25T03:20:19.997790400Z</date>
+  <millis>1598325619997</millis>
+  <nanos>790400</nanos>
+  <sequence>1</sequence>
+  <logger>Controller.MainController</logger>
+  <level>CONFIG</level>
+  <class>Controller.MainController</class>
+  <method>logInitialize</method>
+  <thread>16</thread>
+  <message>Software's running</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-31j" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-08-25T03:21:04.297808900Z</date>
+  <millis>1598325664297</millis>
+  <nanos>808900</nanos>
+  <sequence>1</sequence>
+  <logger>Controller.MainController</logger>
+  <level>CONFIG</level>
+  <class>Controller.MainController</class>
+  <method>logInitialize</method>
+  <thread>16</thread>
+  <message>Software's running</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-31j" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-08-25T04:23:32.740441800Z</date>
+  <millis>1598329412740</millis>
+  <nanos>441800</nanos>
+  <sequence>1</sequence>
+  <logger>Controller.MainController</logger>
+  <level>CONFIG</level>
+  <class>Controller.MainController</class>
+  <method>logInitialize</method>
+  <thread>16</thread>
+  <message>Software's running</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-31j" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-08-25T04:24:35.260364700Z</date>
+  <millis>1598329475260</millis>
+  <nanos>364700</nanos>
+  <sequence>1</sequence>
+  <logger>Controller.MainController</logger>
+  <level>CONFIG</level>
+  <class>Controller.MainController</class>
+  <method>logInitialize</method>
+  <thread>16</thread>
+  <message>Software's running</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-31j" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-08-25T04:27:11.721379800Z</date>
+  <millis>1598329631721</millis>
+  <nanos>379800</nanos>
+  <sequence>1</sequence>
+  <logger>Controller.MainController</logger>
+  <level>CONFIG</level>
+  <class>Controller.MainController</class>
+  <method>logInitialize</method>
+  <thread>16</thread>
+  <message>Software's running</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-31j" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-08-25T04:29:53.484303300Z</date>
+  <millis>1598329793484</millis>
+  <nanos>303300</nanos>
+  <sequence>1</sequence>
+  <logger>Controller.MainController</logger>
+  <level>CONFIG</level>
+  <class>Controller.MainController</class>
+  <method>logInitialize</method>
+  <thread>16</thread>
+  <message>Software's running</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-31j" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-08-25T04:32:04.646258600Z</date>
+  <millis>1598329924646</millis>
+  <nanos>258600</nanos>
+  <sequence>1</sequence>
+  <logger>Controller.MainController</logger>
+  <level>CONFIG</level>
+  <class>Controller.MainController</class>
+  <method>logInitialize</method>
+  <thread>16</thread>
+  <message>Software's running</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-31j" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-08-25T04:47:26.732961300Z</date>
+  <millis>1598330846732</millis>
+  <nanos>961300</nanos>
+  <sequence>1</sequence>
+  <logger>Controller.MainController</logger>
+  <level>CONFIG</level>
+  <class>Controller.MainController</class>
+  <method>logInitialize</method>
+  <thread>16</thread>
+  <message>Software's running</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-31j" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-08-25T04:49:23.986776900Z</date>
+  <millis>1598330963986</millis>
+  <nanos>776900</nanos>
+  <sequence>1</sequence>
+  <logger>Controller.MainController</logger>
+  <level>CONFIG</level>
+  <class>Controller.MainController</class>
+  <method>logInitialize</method>
+  <thread>16</thread>
+  <message>Software's running</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-31j" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-08-25T04:49:51.283737700Z</date>
+  <millis>1598330991283</millis>
+  <nanos>737700</nanos>
+  <sequence>1</sequence>
+  <logger>Controller.MainController</logger>
+  <level>CONFIG</level>
+  <class>Controller.MainController</class>
+  <method>logInitialize</method>
+  <thread>16</thread>
+  <message>Software's running</message>
+</record>
+<?xml version="1.0" encoding="windows-31j" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-08-25T05:05:40.217207300Z</date>
+  <millis>1598331940217</millis>
+  <nanos>207300</nanos>
+  <sequence>1</sequence>
+  <logger>Controller.MainController</logger>
+  <level>CONFIG</level>
+  <class>Controller.MainController</class>
+  <method>logInitialize</method>
+  <thread>16</thread>
+  <message>Software's running</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-31j" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-08-25T05:06:00.989170700Z</date>
+  <millis>1598331960989</millis>
+  <nanos>170700</nanos>
+  <sequence>1</sequence>
+  <logger>Controller.MainController</logger>
+  <level>CONFIG</level>
+  <class>Controller.MainController</class>
+  <method>logInitialize</method>
+  <thread>16</thread>
+  <message>Software's running</message>
+</record>
+<record>
+  <date>2020-08-25T05:06:02.041023200Z</date>
+  <millis>1598331962041</millis>
+  <nanos>23200</nanos>
+  <sequence>2</sequence>
+  <logger>Controller.MainController</logger>
+  <level>INFO</level>
+  <class>Controller.MainController</class>
+  <method>handleOnKeyReleased</method>
+  <thread>16</thread>
+  <message>Input:F5--- Message:java.lang.Exception</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-31j" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-08-25T05:53:10.443168100Z</date>
+  <millis>1598334790443</millis>
+  <nanos>168100</nanos>
+  <sequence>1</sequence>
+  <logger>Controller.MainController</logger>
+  <level>CONFIG</level>
+  <class>Controller.MainController</class>
+  <method>logInitialize</method>
+  <thread>16</thread>
+  <message>Software's running</message>
+</record>
+<record>
+  <date>2020-08-25T05:57:33.758903800Z</date>
+  <millis>1598335053758</millis>
+  <nanos>903800</nanos>
+  <sequence>2</sequence>
+  <logger>Controller.MainController</logger>
+  <level>INFO</level>
+  <class>Controller.MainController</class>
+  <method>handleOnKeyReleased</method>
+  <thread>16</thread>
+  <message>Input:F5--- Message:java.lang.Exception</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-31j" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-08-25T06:01:30.307352800Z</date>
+  <millis>1598335290307</millis>
+  <nanos>352800</nanos>
+  <sequence>1</sequence>
+  <logger>Controller.MainController</logger>
+  <level>CONFIG</level>
+  <class>Controller.MainController</class>
+  <method>logInitialize</method>
+  <thread>16</thread>
+  <message>Software's running</message>
+</record>
+<record>
+  <date>2020-08-25T10:55:48.488913200Z</date>
+  <millis>1598352948488</millis>
+  <nanos>913200</nanos>
+  <sequence>2</sequence>
+  <logger>Controller.MainController</logger>
+  <level>INFO</level>
+  <class>Controller.MainController</class>
+  <method>handleOnKeyReleased</method>
+  <thread>16</thread>
+  <message>Input:F5--- Message:java.lang.Exception</message>
+</record>
+<record>
+  <date>2020-08-25T10:55:54.648204Z</date>
+  <millis>1598352954648</millis>
+  <nanos>204000</nanos>
+  <sequence>3</sequence>
+  <logger>Controller.MainController</logger>
+  <level>INFO</level>
+  <class>Controller.MainController</class>
+  <method>handleOnKeyReleased</method>
+  <thread>16</thread>
+  <message>Input:F5--- Message:java.lang.Exception</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-31j" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-08-25T11:02:17.515368Z</date>
+  <millis>1598353337515</millis>
+  <nanos>368000</nanos>
+  <sequence>1</sequence>
+  <logger>Controller.MainController</logger>
+  <level>CONFIG</level>
+  <class>Controller.MainController</class>
+  <method>logInitialize</method>
+  <thread>16</thread>
+  <message>Software's running</message>
+</record>
+</log>

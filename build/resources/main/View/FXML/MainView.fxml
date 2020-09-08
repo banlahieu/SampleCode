@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane fx:id="scene" onKeyReleased="#handleOnKeyReleased" prefHeight="789.0" prefWidth="1115.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controller.MainController">
+   <children>
+      <TextArea editable="false" layoutX="840.0" prefHeight="789.0" prefWidth="274.0" text="ーーーーーガイドーーーーー&#10;移動：&#10;「↑」ボタン ：上に移動する&#10;「↓」ボタン ：下に移動する&#10;「→」ボタン：右に移動する&#10;「←」ボタン：左に移動する&#10;  Note：移動：1単位　&#10;&#10;回転：&#10;「F1」ボタン：反時計回り&#10;「F2」ボタン：時計回り&#10;  Note：回転度：45度&#10;&#10;拡大縮小：&#10;「F3」ボタン：拡大&#10;「F4」ボタン：縮小&#10;  Note：ライン長さの10%&#10;">
+         <font>
+            <Font size="19.0" />
+         </font></TextArea>
+      <Line endX="488.0" layoutX="314.0" layoutY="385.0" startX="-289.0" />
+      <Line endX="25.0" endY="-355.0" layoutX="359.0" layoutY="374.0" startX="25.0" startY="375.0" />
+      <Line endX="-50.0" layoutX="444.0" layoutY="322.0" startX="-70.0" />
+      <Line endX="-50.0" layoutX="445.0" layoutY="258.0" startX="-70.0" />
+      <Line endX="-50.0" layoutX="444.0" layoutY="196.0" startX="-70.0" />
+      <Line endX="-50.0" layoutX="444.0" layoutY="132.0" startX="-70.0" />
+      <Line endX="-50.0" layoutX="445.0" layoutY="69.0" startX="-70.0" />
+      <Line endX="-50.0" layoutX="445.0" layoutY="699.0" startX="-70.0" />
+      <Line endX="-50.0" layoutX="445.0" layoutY="636.0" startX="-70.0" />
+      <Line endX="-50.0" layoutX="445.0" layoutY="573.0" startX="-70.0" />
+      <Line endX="-50.0" layoutX="445.0" layoutY="511.0" startX="-70.0" />
+      <Line endX="-50.0" layoutX="444.0" layoutY="448.0" startX="-70.0" />
+      <Line endX="-100.0" endY="-20.0" layoutX="421.0" layoutY="394.0" startX="-100.0" />
+      <Line endX="-100.0" endY="-20.0" layoutX="358.0" layoutY="394.0" startX="-100.0" />
+      <Line endX="-100.0" endY="-20.0" layoutX="295.0" layoutY="394.0" startX="-100.0" />
+      <Line endX="-100.0" endY="-20.0" layoutX="232.0" layoutY="394.0" startX="-100.0" />
+      <Line endX="-100.0" endY="-20.0" layoutX="169.0" layoutY="394.0" startX="-100.0" />
+      <Line endX="-100.0" endY="-20.0" layoutX="736.0" layoutY="394.0" startX="-100.0" />
+      <Line endX="-100.0" endY="-20.0" layoutX="673.0" layoutY="393.0" startX="-100.0" />
+      <Line endX="-100.0" endY="-20.0" layoutX="610.0" layoutY="393.0" startX="-100.0" />
+      <Line endX="-100.0" endY="-20.0" layoutX="547.0" layoutY="393.0" startX="-100.0" />
+      <Line endX="-100.0" endY="-20.0" layoutX="800.0" layoutY="395.0" startX="-100.0" />
+      <Text layoutX="340.0" layoutY="74.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" fx:id="x1" />
+      <Text layoutX="340.0" layoutY="137.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" fx:id="x2" />
+      <Text layoutX="340.0" layoutY="200.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="x3" text="Text" fx:id="x3" />
+      <Text layoutX="340.0" layoutY="263.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="x4" text="Text" fx:id="x4" />
+      <Text layoutX="340.0" layoutY="327.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="x5" text="Text" fx:id="x5" />
+      <Text layoutX="340.0" layoutY="452.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="x6" text="Text" fx:id="x6" />
+      <Text layoutX="340.0" layoutY="514.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="x7" text="Text" fx:id="x7" />
+      <Text layoutX="340.0" layoutY="578.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="x8" text="Text" fx:id="x8" />
+      <Text layoutX="340.0" layoutY="640.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="x9" text="Text" fx:id="x9" />
+      <Text layoutX="340.0" layoutY="702.0" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="x10" text="Text" fx:id="x10" />
+      <Text fx:id="y6" layoutX="310.0" layoutY="369.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" />
+      <Text fx:id="y7" layoutX="246.0" layoutY="369.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" />
+      <Text fx:id="y8" layoutX="183.0" layoutY="368.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" />
+      <Text fx:id="y9" layoutX="120.0" layoutY="367.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" />
+      <Text fx:id="y10" layoutX="56.0" layoutY="367.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" />
+      <Text fx:id="y5" layoutX="435.0" layoutY="368.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" />
+      <Text fx:id="y4" layoutX="497.0" layoutY="368.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" />
+      <Text fx:id="y3" layoutX="561.0" layoutY="368.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" />
+      <Text fx:id="y2" layoutX="625.0" layoutY="368.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" />
+      <Text fx:id="y1" layoutX="689.0" layoutY="368.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Text" />
+      <Line endX="0.5" endY="-0.5" layoutX="387.0" layoutY="27.0" rotate="135.0" startX="-23.0" startY="-0.5" />
+      <Line endX="0.5" endY="-0.5" layoutX="404.0" layoutY="27.0" rotate="45.0" startX="-23.0" startY="-0.5" />
+      <Line endX="0.5" endY="-0.5" layoutX="806.0" layoutY="377.0" rotate="45.0" startX="-23.0" startY="-0.5" />
+      <Line endX="0.5" endY="-0.5" layoutX="806.0" layoutY="394.0" rotate="135.0" startX="-23.0" startY="-0.5" />
+   </children>
+</AnchorPane>
