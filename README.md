@@ -14,3 +14,4 @@ F5を押すとエラー対応をチェックする為にエラーが表示され
 Main is JavaFX.
 Deleloped version is wrote in Gradle.
 IDE is Intellij.
+Java is JDK11.
