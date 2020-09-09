@@ -5,8 +5,7 @@ This sample for java programming skill testing.
 
 課題：
 使用OS、言語：Windows, Java
-画面上（Windows内）に、三角形を表示して、キーボードからの入力により三角形を移動（X,Y 方向）、回転（三角形のAを中心）、拡大縮小（三角形のＡを中心として）をおこない再描面およびA,B,Cの座票を表示する
-最初の三角形の座標はＡ（0、0）、Ｂ（0、1）、Ｃ（０．５、０．５）
+画面上（Windows内）に、三角形を表示して、キーボードからの入力により三角形を移動（X,Y 方向）、回転（三角形のAを中心）、拡大縮小（三角形のＡを中心として）をおこない再描面およびA,B,Cの座票を表示する。最初の三角形の座標はＡ（0、0）、Ｂ（0、1）、Ｃ（０．５、０．５）
 
 結果：
 There is one triangle.
@@ -20,4 +19,4 @@ F5を押すとエラー対応をチェックする為にエラーが表示され
 Main is JavaFX.
 Deleloped version is wrote in Gradle.
 IDE is Intellij.
-Java is JDK8.
+Java is JDK11.
